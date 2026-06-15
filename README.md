@@ -23,7 +23,11 @@ README.md          # Документация
 ## Запуск
 
 ```bash
+# Запуск программы
 python main.py
+
+# Запуск тестов
+python tests.py -v
 ```
 
 -----
