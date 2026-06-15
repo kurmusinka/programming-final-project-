@@ -8,6 +8,12 @@
 
 -----
 
+# Ссылка на видео 
+
+Видео с защитой проекта: https://drive.google.com/file/d/1YpXAAGOIMc7o6Nxh64cwL6X4r3XrBhNQ/view?usp=sharing
+
+-----
+
 ## Структура проекта
 
 ```
