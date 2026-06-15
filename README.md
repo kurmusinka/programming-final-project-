@@ -17,6 +17,13 @@ budget.py          # Основная логика (BudgetAssistant)
 data_structures.py # Стек и дерево BST
 tests.py           # Тесты (pytest)
 README.md          # Документация
+
+budget_assistant/
+├── data_structures.py   # Стек (Stack) и дерево BST (ExpenseTree)
+├── budget.py            # Основная логика (класс BudgetAssistant)
+├── main.py              # Точка входа, меню, ввод/вывод
+├── tests.py             # Тесты (pytest)
+└── README.md            # Документация
 ```
 
 -----
